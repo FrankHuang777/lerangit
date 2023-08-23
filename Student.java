@@ -4,4 +4,5 @@ public class Student {
     private Integer studentId;
     private Double height;
     private Double weight;
+    private String address;
 }
