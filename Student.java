@@ -3,4 +3,5 @@ public class Student {
     private Integer age;
     private Integer studentId;
     private Double weight;
+    private String phoneNum;
 }
