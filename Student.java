@@ -6,4 +6,5 @@ public class Student {
     private Double weight;
     private String address;
     private String phoneNum;
+    private String test;
 }
